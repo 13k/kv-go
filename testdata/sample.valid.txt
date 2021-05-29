@@ -1,0 +1,25 @@
+root
+{
+  key value
+  "qkey1" value
+  "qkey2" "qvalue"
+  "k{ey" "v}alue"
+  "esc_quote" "hello \"world\""
+  "esc.newline" "hello\nworld"
+  "esc,tab" "hello\tworld"
+  "esc*backslash" "hello\\world"
+  "esc" "h\ell\to\\\"wo\n\rld\x01\""
+  int 13
+  negint -13
+  float 1.3
+  seq{
+    0 don't!
+    1 _second
+    2 3
+  }
+  nonseq {
+    1a one
+    2b two
+    3c three
+  }
+}

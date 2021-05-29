@@ -1,0 +1,8 @@
+root
+{
+  "key" "value"
+  seq
+  {
+    0
+  }
+}

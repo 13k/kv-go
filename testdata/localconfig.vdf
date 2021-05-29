@@ -1,0 +1,91 @@
+"UserLocalConfigStore"
+{
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+	}
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"friends"
+	{
+		"PersonaName"		"account001"
+		"communitypreferences"		"0801100118002000"
+		"123456789"
+		{
+			"name"		"account001"
+			"NameHistory"
+			{
+				"0"		"account000"
+				"1"		"account001"
+			}
+		}
+	}
+	"Licenses"
+	{
+		"0"		"a4d3501eb67bbb420f8dac6d64b77d9511cc291b165b2b916f049f1380712074a86102ee13e9d4eb38e36374c2bc4f0defebef6b4532272170e73ada23007685fec57f036e67679be80957bb41ea30824cb887f9388f04cce0fee6c07d945688a7cbf007f02d25f4ed8c2f6fef78169ecab2861a1398920f8e512b147ee903943eeb4c848c96795d9a2d2412ada4321205b674a0821b512be85b0b992139699c0cdd0e8873942490fda9f10c1bf3be7afcc3af6899a61ac91ea40f4d150f06ee01d80ecfda546ef3b29ee457352c5ab5340eba651c6b4cd5dd9792d5d7aa7c33f0c16f91c7a74c4c0a13fe1a4d530d3656a230b9d59feae44b2317b42506f1d8"
+	}
+	"apptickets"
+	{
+		"7"		"0bca981af14380e68fb2811c392c2c053f059ef09aca1300ef1e4582c9cfd41aaac1c284c619dec8f909c1314a97b15a165aad080465607da3b23f88b19da36ef83544b028637d2abd2db9d0d6fde0e46d82eb3af3fb9deb7c1a5bbd0342b45d7ad7a365d034d40f446adbeb622824cb7c95393bc40cadfe1ced80abdeef981f628073c795be92e14bdec333692cc516decedde37582ae7a4c31cc7bdf99a9e7d27a07dc1cf2ab45b6565cfb67ef2433d831803c71a0dbeb45c518fe98b1973458e21ae9418058a4946b7c518b8a772146a2a1bffd103ba5a2ebaef8ba48240ce3e782ff5562004197bdce7198a0d6f7eeb7cffbc6cdff64dd7e96044d4f6edb"
+		"570"		"5d59b350335133bec1a12bc34a83fd29491bccc849a1490163844706ef9788f61a331ea955510bc61a49c6d3270bd1719c3b1e45d146b806a020276db318f4c446b629e416e5e415d40b7979c31f6227c45320c298ac0693bf5e737f221eeaae5afe9728a2c1132484d2263e648a9c794ac3eaf89922f2c45f9fa084550fe499c1973e22585fce11ef011f5b3bd52778baa021c83d1f32f4b7ee774b757458630d116e9b71715909faa8e2559888730073beebaf96a095619e7f6125dc764daba285b4fd7f69806e7e67ad1c56219280173cfb3b5dc193311553db18f5ec39397b37c767faf87df152c9bbd14d10ee4cffd8218b645705d5ec3023118662a50f"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"01ab0e631278bf3203b2b9"
+		"Signature"		"d518e1a471504f430005ad5229b416ad2e2fa5fd4db8b99e4631e01c1c321c43766be702256884459e8d30b4886429f68c0eb6943a5badb978a85a5228dd51eb877205ceeb7bfb4c4ed128c04a24724fa6967919c3b10a8aabb74011b7df62963d1ebc87aca5f4f7c21d0b65c47acc8e8796942f051b3634bc764fc504cf2ec05acb56b7af53cbf1d5303fed08cfe42356d041b4b771be72520077980770cec91c24034c8206d1841fbfd1c7b4dbb08810cfe2e4a8c4c087b4bfd64a4fcd98ce3114405c8b64a3f5475f2d078bfee1e412b0085d32819e5eaec8245c5907a3b1814e2dab60910bfbcf6a34eafffb76fa9c82a21c089e92e7c10f857a3819bcea"
+	}
+	"Offline"
+	{
+		"Ticket"		"bf3193cd9d72f18f6b6172329ecb0f55138a179a4221e3e95c1b67100e552e2b75"
+		"Signature"		"4c04ce1db71bf784b8f6c2d1a2029fe1d95cc0f464498ad42979198130dc958ae8ee4c1452625182cc7edd8ebf73feab9a500ca9148914785820b058613537f57b387b6d201a4b3394d191c5bf0be8e5f552ed35923b81f43e871d8759228ded5bfb5084844215b59e46fa31b346e86989ff982a20ecb142bd6b8b52635aef29880bb438c6016e6beff3157f3aa231c9d4ff9f972d5d24168e49ca5acc47079d44fb3ce5efdc5756b21da2a1e00dc94918f96fa831d22ef64f78a305bc8fb08cdf4a075087c15eaa0cd04e48284a73811bd31709652beb87e17e49780e02aee975ae39e3b1c085258e13ec1bc1d1ec489ad3240090400d7b4477b92e70990300"
+	}
+	"SharedAuth"
+	{
+		"id"		"28466"
+		"AuthData"		"5b8d75b9a92197ccbb2bc450ee1ce0244c22aa93fd43153add4e79799f84d274"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"570"
+					{
+						"LastPlayed"		"1587795045"
+						"Playtime"		"21796"
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1587795045"
+			}
+		}
+	}
+	"AppInfoChangeNumber"		"27683841"
+	"WebStorage"
+	{
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uncategorized\",false]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":570},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}]}}"
+		"user-collections"		"{}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]}}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1589228622.241}"
+		"playnextstore_storage"		"{\"nVersion\":2,\"cachedPlayNext\":{\"last_update_time\":1589228622,\"appids\":[]}}"
+		"SteamVoiceSettings_123456789"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"ChatStorePopupState_123456789"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListSingleWindow\":false,\"bFriendsListCollapsed\":false}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"News"
+	{
+		"Messages"
+		{
+			"5451781616"		"1"
+		}
+	}
+	"StartupState.Friends"		"0"
+}

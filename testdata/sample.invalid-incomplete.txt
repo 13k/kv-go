@@ -1,0 +1,6 @@
+root
+{
+  "key" "value"
+  seq
+  {
+    0 don't!
